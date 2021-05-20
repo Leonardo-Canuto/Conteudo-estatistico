@@ -1,2 +1,2 @@
 # Conteudo-estatistico
-Refere se praticas estatísticas com Python
+Refere se a praticas estatísticas com Python.
